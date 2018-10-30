@@ -27,5 +27,4 @@
     "domains": ["str"],
     "seconds": "int"
   },
-  //"image": "homeassistant/{arch}-addon-duckdns"
 }
